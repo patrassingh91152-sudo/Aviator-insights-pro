@@ -1,0 +1,1 @@
+Generated starter Flutter project. For guaranteed local builds run `flutter create .` once to restore platform wrappers if needed.
