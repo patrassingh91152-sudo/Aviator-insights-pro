@@ -1,0 +1,1 @@
+Upload to GitHub/Codemagic. Add Firebase config and logo.
